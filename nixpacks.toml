@@ -4,4 +4,4 @@
 aptPkgs = ["ffmpeg"]
 
 [start]
-cmd = "python bot.py"
+cmd = "python main.py"
